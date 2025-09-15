@@ -1,1 +1,36 @@
-# irmica-sitemap
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.irmica.com/</loc></url>
+  <url><loc>https://www.irmica.com/contact</loc></url>
+  <url><loc>https://www.irmica.com/about</loc></url>
+  <url><loc>https://www.irmica.com/free-mini-e-guide</loc></url>
+  <url><loc>https://www.irmica.com/bundle-e-guide-and-template</loc></url>
+  <url><loc>https://www.irmica.com/self-branding-e-guide</loc></url>
+  <url><loc>https://www.irmica.com/everyday-life-struggles</loc></url>
+  <url><loc>https://www.irmica.com/my-first-years-of-the-adaptation-in-a-new-country</loc></url>
+  <url><loc>https://www.irmica.com/career-pathways-quiet-creators-guide</loc></url>
+  <url><loc>https://www.irmica.com/how-i-fell-in-love-with-the-digital-economy-and-content-creation</loc></url>
+  <url><loc>https://www.irmica.com/i-rose-like-a-phoenix</loc></url>
+  <url><loc>https://www.irmica.com/coffee-comfort-healing</loc></url>
+  <url><loc>https://www.irmica.com/hard-of-hearing-mother-parenting-allergies</loc></url>
+  <url><loc>https://www.irmica.com/notion-goal-tracker-2025</loc></url>
+  <url><loc>https://www.irmica.com/10-most-influential-personal-brands-that-made-a-lasting-impact</loc></url>
+  <url><loc>https://www.irmica.com/a-brief-history-of-personal-branding-from-pharaohs-to-instagram</loc></url>
+  <url><loc>https://www.irmica.com/the-psychology-of-personal-branding-why-we-crave-identity-and-recognition</loc></url>
+  <url><loc>https://www.irmica.com/deeper-look-personal-branding</loc></url>
+  <url><loc>https://www.irmica.com/overcoming-branding-anxiety</loc></url>
+  <url><loc>https://www.irmica.com/trackus-notion-template</loc></url>
+  <url><loc>https://www.irmica.com/notion-content-planner-for-quiet-creators</loc></url>
+  <url><loc>https://www.irmica.com/quiet-creators-monetize-emotional-letters</loc></url>
+  <url><loc>https://www.irmica.com/soft-branding-toolkit-for-entrepreneurs-creators-personal-brand-template-workbook</loc></url>
+  <url><loc>https://www.irmica.com/you-are-a-timeline-emotional-healing-guide</loc></url>
+  <url><loc>https://www.irmica.com/soft-affiliate-program</loc></url>
+  <url><loc>https://www.irmica.com/faceless-ai-storytelling-visibility</loc></url>
+  <url><loc>https://www.irmica.com/threads-to-millions-review-alexis-loeper</loc></url>
+  <url><loc>https://www.irmica.com/healing-in-quiet-moments</loc></url>
+  <url><loc>https://www.irmica.com/letting-go-after-breakup</loc></url>
+  <url><loc>https://www.irmica.com/long-distance-love-letters</loc></url>
+  <url><loc>https://www.irmica.com/quiet-ai-brand-rise-emotional-creation</loc></url>
+  <url><loc>https://www.irmica.com/understanding-loneliness-diverse-life-situations</loc></url>
+  <url><loc>https://www.irmica.com/emotional-content-creator-faq</loc></url>
+</urlset>
